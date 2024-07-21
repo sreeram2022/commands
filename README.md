@@ -90,3 +90,6 @@ Here, I'll list out the commands I know & use. It'll be ideal place to revise th
 87. nano file_name
 88. vim file_name
 89. emacs file_name
+
+##Vim commands
+
